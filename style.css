@@ -1,16 +1,3 @@
-:root {
-    /* Variáveis */
-    --cor-de-fundo: #F5F5F5;
-    --cor-de-link: #000;
-    --cor-de-fundo-sobre: #c8dbff;
-    --branco: #fff;
-    --sombra: #999;
-    --azul-claro: #2a7ae4;
-    --cinza-claro: #A2A2A2;
-    --cor-neon: #f00;
-    --azul-pastel: #00ffd5;
-}
-
 body {
     box-sizing: border-box;
     background-color: #ffffff;
